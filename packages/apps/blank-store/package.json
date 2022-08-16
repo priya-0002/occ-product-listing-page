@@ -34,11 +34,17 @@
     "aliases": {
       "@oracle-cx-commerce/styles/common.css": "@oracle-cx-commerce/blank-store/src/core/ui/styles/common.css",
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-list/component": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-list/component.js",
+
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-listing-container/component": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-listing-container/component.js",
+
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-list/components/dynamic-product-list-item": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-list/components/dynamic-product-list-item",
+
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-list/styles.css": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-list/style.css",
+
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-listing-container/styles.css": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-listing-container/style.css",
+
       "@oracle-cx-commerce/react-widgets/product-listing/dynamic-product-list/components/dynamic-product-list-item/styles.css": "@oracle-cx-commerce/blank-store/src/patches/product-listing/dynamic-product-list/components/dynamic-product-list-item/style.css"
+      
     }
   }
 }

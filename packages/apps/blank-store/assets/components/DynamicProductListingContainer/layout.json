@@ -1,10 +1,24 @@
 {
     "regions": [
+      {
+        "components": [
+          "SortResults"
+        ],
+        "width": 12,
+        "type": "main"
+      },
+      {
+        "components": [
+          "FacetedNavigationDesktop"
+        ],
+        "width": 2,
+        "type": "main"
+      },
         {
             "components": [
-              "DynamicProductList"
+              "DynamicProductList","SearchTermsSummary"
             ],
-            "width": 12,
+            "width": 10,
             "type": "main"
           }
     ]
